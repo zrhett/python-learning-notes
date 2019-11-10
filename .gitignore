@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.vscode/settings.json
+.DS_Store
+.idea/.gitignore
+.idea/$CACHE_FILE$
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/dictionaries
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-learning-notes.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
